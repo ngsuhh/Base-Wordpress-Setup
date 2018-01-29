@@ -21,7 +21,7 @@
 
 <!--EXAMPLE QUERY ----------------------------->
 
-<?php
+<!-- <?php
 wp_reset_query();
 $args = array(
 	'order'    => 'DESC',
@@ -39,11 +39,11 @@ $the_query = new WP_Query( $args );
 <?php
 	endwhile;
 	wp_reset_postdata();
-?>
+?> -->
 
 
 <!--EXAMPLE CONTENT ----------------------------->
-<?php
+<!-- <?php
 $postid = $post->ID;
 
 ///////// AUTHOR /////////////
@@ -90,6 +90,6 @@ else {
 	$imageUrl .= catch_that_image();
 	$imageUrl .= '" alt="" />';
 }
-?>
+?> -->
 
 <?php get_footer(); ?>
