@@ -8,3 +8,9 @@ Base Wordpress Setup includes:
 - Custom meta checkbox
 - Dynamic FB Open Graphs data
 - Plugins: ACF, WP Smush, WP migrate DB, Yoast SEO
+
+
+To Use:
+Download ZIP
+Setup Database in localhost
+Edit WP-CONFIG
