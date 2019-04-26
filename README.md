@@ -10,5 +10,21 @@ Steps to set up
 - Set up the DB for your wordpress project & replace the credentials in wp-config.development.php
 
 
+Includes:
+
+This theme set up includes the following plugins:
+- ACF Plugin
+- WP Migrate DB
+- WP Smush
+
+This theme set up includes the following custom functions (functions.php):
+- Get user gravatar
+- Custom menu registration
+- Get excerpt of content
+- Get first image of content
+- Featured post meta checkbox
+- Facebook Open Graphs Tags
+
+
 Resources: 
 https://codex.wordpress.org/Theme_Development
