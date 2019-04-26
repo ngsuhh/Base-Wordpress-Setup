@@ -16,10 +16,10 @@
 define('DB_NAME', 'dbname');
 
 /** MySQL database username */
-define('DB_USER', 'fixxstag_admin');
+define('DB_USER', 'dbuser');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'OogS2[.9mi)&}tK9');
+define('DB_PASSWORD', 'dbpassword');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
